@@ -1,0 +1,6 @@
+jenkins/
+src/
+vscode/
+
+.env
+password.txt
